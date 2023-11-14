@@ -32,18 +32,16 @@ purchased              |int64 | indicator of whether the student made a purchase
 |:------------------------------|:---------|:-----------|:-----------|
 Class 0       |0.97	|0.99	|0.98	
 Class 1       |0.83	|0.66	|0.74
-
-|K-Nearest Neighbors                      |	     |	     |	     |
-|:------------------------------|:---------|:-----------|:-----------|
+|**K-Nearest Neighbors**                      |	     |	     |	     |
 Class 0       |0.97	|0.98	|0.98	
 Class 1       |0.79	|0.71	|0.75
-|Support Vector Machines                      |	     |	     |	     |
+|**Support Vector Machines**                      |	     |	     |	     |
 Class 0       |0.97	|0.98	|0.98	
 Class 1       |0.81	|0.68	|0.74
-|Decision Trees                      |	     |	     |	     |
+|**Decision Trees**                      |	     |	     |	     |
 Class 0       |0.98	|0.98	|0.98	
 Class 1       |0.81	|0.76	|0.78
-|Random Forests                     |	     |	     |	     |
+|**Random Forests**                     |	     |	     |	     |
 Class 0       |0.97	|0.98	|0.98	
 Class 1       |0.82	|0.74	|0.78
 
