@@ -28,7 +28,7 @@ purchased              |int64 | indicator of whether the student made a purchase
 ---
 
 ## Result Interpretation
-Throughout this project, I've developed multiple classification models with the aim of identifying the one that most precisely categorizes students into *'potential purchasers'* and *'unlikely purchasers'* based on their platform activity. When accurate, such predictions are highly crucial for a business, enabling the marketing team to focus resources on promoting the product to the demographic most likely to express interest and benefit from a subscription.
+Throughout this project, I've developed multiple classification models with the aim of identifying the one that most precisely categorizes students into **'potential purchasers'** and **'unlikely purchasers'** based on their platform activity. When accurate, such predictions are highly crucial for a business, enabling the marketing team to focus resources on promoting the product to the demographic most likely to express interest and benefit from a subscription.
 
 The objective was to sift through registered students likely to take advantage of a discounted subscription price. However, a significant challenge arose.
 
