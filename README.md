@@ -10,11 +10,11 @@ This project is inspired by an initiative of an online course platform in 2022 t
 |:------------------------------|:---------|:-----------|
 student_country        |object| country of the student
 days_on_platform       |int64 | number of days the student has been on the platform
-minutes_watched        |int64 | total minutes the student spent watching content
+minutes_watched        |float64 | total minutes the student spent watching content
 courses_started        |int64 | number of courses the student initiated
 practice_exams_started  |int64 | number of practice exams the student began
 practice_exams_passed   |int64 | number of practice exams the student passed
-minutes_spent_on_exams  |int64 | total minutes the student spent on exams
+minutes_spent_on_exams  |float64 | total minutes the student spent on exams
 purchased              |int64 | indicator of whether the student made a purchase (1 for yes, 0 for no)
 
 ## Dependencies
