@@ -1,9 +1,14 @@
-# Students Classification using Machine Learning
+# Students Classification and Forecasting using Machine Learning
 
 ## Business Overview
 Machine learning's numerous implications include improving business decision-making. This project provides a practical illustration of this use case. It focuses on predicting the likelihood of a student enrolled for a free plan purchasing a subscription on an online course platform. The decision is based on students' activities on the platform—viewing lectures and participating in exams.
 
 This project is inspired by an initiative of an online course platform in 2022 to predict student purchases before the Black Friday campaign. I wanted to create a list of students likelier to purchase and retarget them with unique ads on social media. But as it turned out, this was no easy task due to the extreme imbalance of the data—the number of students who had never purchased a subscription was much higher than the number of students who had. The primary reason for that was the free campaign that ran before the Black Friday one, where the platform was unlocked for free to all students.
+
+## Business Objective
+Forecasting potential customers can be applied to target advertisements or extend exclusive offers. This aids in budget allocation for users expected to find value in the product, with the goal of enhancing the company's revenue.
+
+---
 
 ## Data Dictionary
 |variable                       |class     |description |
