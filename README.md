@@ -1,4 +1,4 @@
-# Students Classification and Forecasting using Machine Learning
+# Student Classification and Forecasting using Machine Learning
 
 ## Business Overview
 Machine learning's numerous implications include improving business decision-making. This project provides a practical illustration of this use case. It focuses on predicting the likelihood of a student enrolled for a free plan purchasing a subscription on an online course platform. The decision is based on students' activities on the platform—viewing lectures and participating in exams.
