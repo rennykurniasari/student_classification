@@ -75,26 +75,8 @@ purchased              |int64 | indicator of whether the student made a purchase
 
 ---
 
-## Confusion Matrices Result
-|Logistic Regression                       |Precision	     |Recall	 |F1-Score	 |
-|:------------------------------|:---------|:-----------|:-----------|
-Class 0       |0.97	|0.99	|0.98	|
-Class 1       |0.83	|0.66	|0.74   |
-|**K-Nearest Neighbors**                      |	     |	     |	     |  
-Class 0       |0.97	|0.98	|0.98	|
-Class 1       |0.79	|0.71	|0.75   |
-|**Support Vector Machines**                       |	     |	     |	     | 
-Class 0       |0.97	|0.98	|0.98	|
-Class 1       |0.81	|0.68	|0.74   |
-|**Decision Trees**                       |	     |	     |	     |
-Class 0       |0.98	|0.98	|0.98	|
-Class 1       |0.81	|0.76	|0.78   |
-|**Random Forests**                       |	     |	     |	     |
-Class 0       |0.97	|0.98	|0.98	|
-Class 1       |0.82	|0.74	|0.78   |
-
 ## Result Interpretation
-Throughout this project, multiple classification models were developed to accurately categorize students as 'potential purchasers' and 'unlikely purchasers' based on their platform activity. The goal was to enhance marketing strategies, concentrating resources on the demographic most likely to benefit from a subscription. Despite the impressive overall accuracy of approximately 0.96, a significant hurdle arose due to an extreme class imbalance in the dataset.
+Throughout this project, multiple classification models were developed to accurately categorize students as **'potential purchasers'** and **'unlikely purchasers'** based on their platform activity. The goal was to enhance marketing strategies, concentrating resources on the demographic most likely to benefit from a subscription. Despite the impressive overall accuracy of approximately 0.96, a significant hurdle arose due to an extreme class imbalance in the dataset.
 
 ### Observations from Confusion Matrices
 |Logistic Regression                       |Precision	     |Recall	 |F1-Score	 |
