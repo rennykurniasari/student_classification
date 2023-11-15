@@ -32,6 +32,7 @@ This project follows a comprehensive methodology that involves data preprocessin
 
 ## Key Components
 1.   **Data Preprocessing**
+<br>Preparing the dataset for machine learning models, this involves:
       *   **Removing Outliers:** Identify and eliminate data points that deviate significantly from the norm to ensure model accuracy and reliability.
       *   **Checking for Multicollinearity:** Assess and address multicollinearity issues among predictor variables to enhance model interpretability.
       *   **Dealing with NaN Values:** Handle missing data through imputation or removal to maintain the integrity of the dataset.
