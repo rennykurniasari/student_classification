@@ -31,26 +31,26 @@ This analysis is crucial for online learning platform companies, allowing for st
 This project follows a comprehensive methodology that involves data preprocessing and the application of various machine learning models to achieve the objective of predicting student subscription upgrades.
 
 ## Key Components
-1.   **Data Preprocessing**
-    *   **Removing Outliers:** Identify and eliminate data points that deviate significantly from the norm to ensure model accuracy and reliability.
-    *   **Checking for Multicollinearity:** Assess and address multicollinearity issues among predictor variables to enhance model interpretability.
-    *   **Dealing with NaN Values:** Handle missing data through imputation or removal to maintain the integrity of the dataset.
-    *   **Splitting the Data:** Divide the dataset into training and testing sets to evaluate model performance effectively.
-    *   **Encoding the Data:** Convert categorical variables into a numerical format, ensuring compatibility with machine learning algorithms.
+1.   **Data Preprocessing**   
+   *   **Removing Outliers:** Identify and eliminate data points that deviate significantly from the norm to ensure model accuracy and reliability.
+   *   **Checking for Multicollinearity:** Assess and address multicollinearity issues among predictor variables to enhance model interpretability.
+   *   **Dealing with NaN Values:** Handle missing data through imputation or removal to maintain the integrity of the dataset.
+   *   **Splitting the Data:** Divide the dataset into training and testing sets to evaluate model performance effectively.
+   *   **Encoding the Data:** Convert categorical variables into a numerical format, ensuring compatibility with machine learning algorithms.
 
-2.   **Logistic Regression Model**
+3.   **Logistic Regression Model**
 <br>Apply logistic regression, a widely-used classification algorithm, to predict the likelihood of students upgrading to a paid subscription.
 
-3.   **K-Nearest Neighbors Model**
+4.   **K-Nearest Neighbors Model**
 <br>Implement the k-nearest neighbors algorithm to classify students based on their similarity to others in the dataset.
 
-4.   **Support Vector Machines Model**
+5.   **Support Vector Machines Model**
 <br>Utilize support vector machines, a powerful classification method, to separate and classify students into subscription upgrade categories.
 
-5.   **Decision Trees Model**
+6.   **Decision Trees Model**
 <br>Employ decision tree modeling to create a predictive model based on hierarchical decision rules.
 
-6.   **Random Forests Model**
+7.   **Random Forests Model**
 <br>Develop a random forests model, an ensemble learning technique, to improve prediction accuracy through the aggregation of multiple decision trees.
 
 ## Data Dictionary
